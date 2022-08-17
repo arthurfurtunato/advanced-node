@@ -11,6 +11,6 @@
 
 Aplicação avançada de Clean Architecture e TDD com TypeORM, integração com APIs de terceiros.
 
-## Code by Arthur Furtunato
+### Code by Arthur Furtunato
 
-## Learn from Rodrigo Manguinho
+### Learn from Rodrigo Manguinho
